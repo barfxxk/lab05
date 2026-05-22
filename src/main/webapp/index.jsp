@@ -148,6 +148,13 @@
         xmlHttp.send();
     }
 </script>
+<!-- 相对路径图片1：alive.jpg -->
+<img src="images/alive.jpg" alt="alive图片" width="400">
 
+<!-- 相对路径图片2：china-history.jpg -->
+<img src="images/china-history.jpg" alt="中国历史图片" width="400">
+
+<!-- 绝对路径图片：网络示例图 -->
+<img src="https://picsum.photos/id/237/400/300" alt="网络示例图片" width="400">
 </body>
 </html>
